@@ -1,0 +1,60 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2023 The MathWorks, Inc.
+             R2023a Update 2 (9.14.0.2254940) 64-bit (glnxa64)
+                               April 17, 2023
+
+Warning: X does not support locale en_US.UTF-8
+ 
+To get started, type doc.
+For product information, visit www.mathworks.com.
+ 
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+
+The experiment is done for kernel_1.
+The domeins are 3-dimentional.
+The domains share a vertex.
+
+-----------------------------------------------------------
+-----------------------------------------------------------
+Starting parallel pool (parpool) using the 'Processes' profile ...
+Connected to parallel pool with 40 workers.
+Matrix size is = 216 x 216 
+
+Mean rank of the Kernel Matrix: 80.3860
+Variance of rank of the Kernel Matrix: 114.3612
+
+-----------------------------------------------------------
+Matrix size is = 512 x 512 
+
+Mean rank of the Kernel Matrix: 102.5160
+Variance of rank of the Kernel Matrix: 193.2974
+
+-----------------------------------------------------------
+Matrix size is = 1331 x 1331 
+
+Mean rank of the Kernel Matrix: 127.3430
+Variance of rank of the Kernel Matrix: 276.2765
+
+-----------------------------------------------------------
+Matrix size is = 2197 x 2197 
+
+Mean rank of the Kernel Matrix: 140.7115
+Variance of rank of the Kernel Matrix: 322.4385
+
+-----------------------------------------------------------
+Matrix size is = 4096 x 4096 
+
+Mean rank of the Kernel Matrix: 155.5115
+Variance of rank of the Kernel Matrix: 368.3861
+
+-----------------------------------------------------------
+Matrix size is = 8000 x 8000 
+
+Mean rank of the Kernel Matrix: 171.6410
+Variance of rank of the Kernel Matrix: 391.9011
+
+-----------------------------------------------------------
+Parallel pool using the 'Processes' profile is shutting down.
